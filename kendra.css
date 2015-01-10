@@ -25,9 +25,16 @@ body {
           box-shadow: inset 0 0 100px rgba(0,0,0,.5);
 }
 
-.button-links {
-  margin-top: 25px;
+.kendra-pic {
+  border-radius: 40px;
+  width: 250px;
+  height: 250px;
 }
+
+.button-links {
+  margin-top: 35px;
+}
+
 
 .button-link {
   background-color: #fff !important;
@@ -36,7 +43,7 @@ body {
 }
 
 .btn-link + .btn-link {
-  margin-left: 15px;
+  margin-left: 25px;
 }
 
 .name-date {
