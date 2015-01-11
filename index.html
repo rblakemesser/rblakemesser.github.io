@@ -15,24 +15,13 @@
 
 			$(document).ready(function() {
 
-				window.onhashchange = function() {     
-				    if (location.hash.length > 0) {        
-				        times = parseInt(location.hash.replace('#',''), 10);     
-				    }
-				    else {
-				        times = 0;
-				        $coverContainers.hide();
-				        var $homeContent = $('#home-content');
-						$homeContent.show();
-				    }
-				}
-
 				var times = 0;
 				var $coverContainers = $('.cover-container');
 
 				var $aboutBtn = $('#about-button');
 				var $storiesBtn = $('#stories-button');
-
+				
+				var $homeContent = $('#home-content');
 				var $aboutContent = $('#about-content');
 				var $storiesContent = $('#stories-content');
 
@@ -40,8 +29,8 @@
 					e.preventDefault();
 					times++;
 					location.hash = times;
-					$coverContainers.hide();
 
+					$coverContainers.hide();
 					$aboutContent.show();
 					return false;
 				});
@@ -50,11 +39,23 @@
 					e.preventDefault();
 					times++;
 					location.hash = times;
-					$coverContainers.hide();
 
+					$coverContainers.hide();
 					$storiesContent.show();
 					return false;
 				});
+
+				// Make the back and forwards buttons work
+				window.onhashchange = function() {
+				    if (location.hash.length > 0) {
+				        times = parseInt(location.hash.replace('#',''), 10);     
+				    }
+				    else {
+				        times = 0;
+				        $coverContainers.hide();
+						$homeContent.show();
+				    }
+				}
 
 			});
 
