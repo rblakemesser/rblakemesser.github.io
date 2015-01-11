@@ -10,6 +10,67 @@
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+		<script>
+
+			var renderSite = function(htmlBlob) {
+				
+			};
+
+			var registerListeners = function() {
+				
+			};
+
+			$(document).ready(function() {
+
+				window.onhashchange = function() {     
+				    if (location.hash.length > 0) {        
+				        times = parseInt(location.hash.replace('#',''), 10);     
+				    }
+				    else {
+				        times = 0;
+				        $coverContainers.hide();
+				        var $homeContent = $('#home-content');
+						$homeContent.show();
+				    }
+				}
+
+				var times = 0;
+				var $coverContainers = $('.cover-container');
+
+				var $aboutBtn = $('#about-button');
+				var $storiesBtn = $('#stories-button');
+
+				var $aboutContent = $('#about-content');
+				var $storiesContent = $('#stories-content');
+
+				$aboutBtn.on('click', function(e) {
+					e.preventDefault();
+					times++;
+					location.hash = times;
+					$coverContainers.hide();
+
+					$aboutContent.show();
+					return false;
+				});
+
+				$storiesBtn.on('click', function(e) {
+					e.preventDefault();
+					times++;
+					location.hash = times;
+					$coverContainers.hide();
+
+					$storiesContent.show();
+					return false;
+				});
+
+				renderSite();
+				registerListeners();
+			});
+
+			console.log($('.site-wrapper-inner'));
+
+		</script>
 	</head>
 
 	<body>
@@ -17,7 +78,7 @@
 
 		    <div class="site-wrapper-inner">
 
-		        <div class="cover-container">
+				<div id="home-content" class="cover-container">
 
 		          	<div class="inner cover">
 		          		<img class="kendra-pic" src="https://pbs.twimg.com/profile_images/516239808142663680/IzIQycQy_400x400.jpeg" />
@@ -25,8 +86,8 @@
 		            	<h1 class="cover-heading">Kendra Fortmeyer</h1>
 
 		            	<div class="button-links">
-			            	<a class="btn-link" href="stories.html"><li class="button-link btn btn-primary">stories</li></a>
-			            	<a class="btn-link" href="about.html"><li class="button-link btn btn-info">about</li></a>
+			            	<a class="btn-link" href="stories.html" id="stories-button"><li class="button-link btn btn-primary">stories</li></a>
+			            	<a class="btn-link" href="about.html" id="about-button"><li class="button-link btn btn-info">about</li></a>
 			            </div>
 		          	</div>
 
@@ -35,8 +96,95 @@
 		                    <p><a href="#">people</a> I know doing <a href="/friends.html">really cool things</a></p>
 		                </div>
 		            </div>
+		        </div>
+
+		        <div id="about-content" class="cover-container" hidden>
+
+		          	<div class="inner cover">
+
+			            <p class="lead about">
+			            	Kendra Fortmeyer is the fiction editor for <a href="http://broadzine.com/about/meet-the-staff/">Broad! magazine</a> and a Pushcart Prize nominee with an MFA from the New Writers Project at UT Austin. Her work has appeared or is forthcoming in the Toast, PANK, Smoking Glue Gun, NANO Fiction, apt, Juked, Forge, Fiddleblack, Corium and elsewhere. She wrote a YA magical realist novel about girls and their bodies that's found brilliant representation at <a href="http://www.thebentagency.com/">The Bent Agency</a> and is looking for, as we say, a forever home. 
+			            </p>
+
+			            <p class="lead about">
+			            	When she's not writing, she teaches the world's craziest, most brilliant teenagers at <a href="http://www.skybridgeatx.com/staff/">Skybridge Academy</a> in Austin, Texas.
+						</p>
+						<p class="lead about">
+							You can hear her jibber-jabber on Twitter <a href="http://twitter.com/kendraffe">@kendraffe</a> ...which is what her name would be if she were a giraffe.*
+						</p>
+						<p class="lead about">
+							(She thought a long time about whether this page should be in the first or third person. To the dismay of multitudes, she chose this.)
+						</p>
+		          	</div>
+
+		          	<div class="mastfoot">
+		             	<div class="inner">
+		                    <p class="lead pull-left">* Obviously</p>
+		                </div>
+		            </div>
 
 		        </div>
+
+		        <div id="stories-content" class="cover-container" hidden>
+
+	          		<div class="work">
+	          			<h4 class="quote">
+	          				"In his final year of graduate school, my father took a job as a bus driver."
+	          			</h4>
+	          			<a href="http://apt.aforementionedproductions.com/2015/01/excerpt-from-kendra-fortmeyers-the-exposed-nest/">"The Exposed Nest,"</a><span class="name-date"> apt, January 2015</span>
+	          		</div>
+	          		<div class="work">
+	          			<h4 class="quote">
+	          				"The trouble was that the shark had been born a human."
+	          			</h4>
+	          			<a href="http://smokinggluegun.com/2014/09/01/kendra-fortmeyer/">"Squaline,"</a><span class="name-date"> Smoking Glue Gun, September 2014</span><span class="nominated"> nominated for 2015 Pushcart Prize</span>
+	          		</div>
+	          		<div class="work">
+	          			<h4 class="quote">
+	          				"She arrived at the date and found herself already there."
+	          			</h4>
+	          			<a href="http://forgejournal.com/forge/2014/09/23/asymmetry/">"Assymetry,"</a><span class="name-date"> Forge, September 2014</span><span class="nominated"> nominated for 2015 Pushcart Prize</span>
+	          		</div>
+	          		<div class="work">
+	          			<h4 class="quote">
+	          				"In his final year of graduate school, my father took a job as a bus driver."
+	          			</h4>
+	          			<a href="http://www.juked.com/2014/06/kendra-fortmeyer-neophyte.asp">"Neophyte,"</a><span class="name-date"> Juked, June 2014</span>
+	          		</div>
+	          		<div class="work">
+	          			<h4 class="quote">
+	          				"One day the husband didn't love the wife anymore."
+	          			</h4>
+	          			<a href="http://pankmagazine.com/piece/x-approaching-one/">"X Approaching One,"</a><span class="name-date"> PANK, May 2013</span>
+	          		</div>
+	          		<div class="work">
+	          			<h4 class="quote">
+	          				"The blonde had dyed her hair red, so the whole thing was a shambles."
+	          			</h4>
+	          			<a href="http://www.coriummagazine.com/?page_id=2818">"Disappointment,"</a><span class="name-date"> Corium, November 2012</span>
+	          		</div>
+	          		<div class="work">
+	          			<h4 class="quote">
+	          				"We have been in the cave for many months...."
+	          			</h4>
+	          			<a href="http://www.100wordstory.org/2211/caving/">"Caving,"</a><span class="name-date"> 100 Word Story, October 2012</span>
+	          		</div>
+	          		<div class="work">
+	          			<h4 class="quote">
+	          				"There were seven fish swimming in the toilet bowl."
+	          			</h4>
+	          			<a href="http://www.juked.com/2014/06/kendra-fortmeyer-neophyte.asp">"FISH,"</a><span class="name-date"> NANO Fiction, Issue 6.1, September 2012</span>
+	          		</div>
+	          		<div class="work">
+	          			<h4 class="quote">
+	          				"There is a monster living underneath your bed, and the monster is lonely."
+	          			</h4>
+	          			<a href="http://broadzine.files.wordpress.com/2012/01/broad11.pdf">"The Monster Under Your Bed,"</a><span class="name-date"> Broad! (a gentleperson's magazone), February 2011</span>
+	          		</div>
+
+		        </div>
+
+
 		    </div>
 		</div>
 	</body>
