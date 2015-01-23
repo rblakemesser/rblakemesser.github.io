@@ -34,6 +34,12 @@ body {
   border: 5px;
 }
 
+.btn-back {
+  border-color: lime !important;
+  color: red !important;
+  border: 5px;
+}
+
 .site-wrapper {
   display: table;
   width: 100%;
@@ -90,6 +96,11 @@ body {
 .about {
 	max-width: 500px;
 	text-align: left;
+}
+
+.butts {
+    max-width: 500px;
+  text-align: center;
 }
 
 .work {
