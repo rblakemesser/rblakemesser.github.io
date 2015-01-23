@@ -16,6 +16,24 @@ body {
   text-shadow: 0 1px 1px rgba(0,0,0,.5);
 }
 
+.btn-butts {
+  border-color: fuchsia !important;
+  color: red !important;
+  border: 5px;
+}
+
+.btn-stories {
+  border-color: aqua !important;
+  color: red !important;
+  border: 5px;
+}
+
+.btn-about {
+  border-color: yellow !important;
+  color: red !important;
+  border: 5px;
+}
+
 .site-wrapper {
   display: table;
   width: 100%;

@@ -3,7 +3,7 @@
 <html lang="en">
 
 	<head>
-		<title>Kendra Fortmeyer, Sex Goddess></title>
+		<title>Kendra Fortmeyer, (writes stuff)></title>
 		<link href="kendra.css" rel="stylesheet">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 
@@ -20,10 +20,12 @@
 
 				var $aboutBtn = $('#about-button');
 				var $storiesBtn = $('#stories-button');
+				var $buttsBtn = $('#butts-button');
 				
 				var $homeContent = $('#home-content');
 				var $aboutContent = $('#about-content');
 				var $storiesContent = $('#stories-content');
+				var $buttsContent = $('#butts-content');
 
 				$aboutBtn.on('click', function(e) {
 					e.preventDefault();
@@ -42,6 +44,16 @@
 
 					$coverContainers.hide();
 					$storiesContent.show();
+					return false;
+				});
+
+				$buttsBtn.on('click', function(e) {
+					e.preventDefault();
+					times++;
+					location.hash = times;
+
+					$coverContainers.hide();
+					$buttsContent.show();
 					return false;
 				});
 
@@ -75,8 +87,9 @@
 		            	<h1 class="cover-heading">Kendra Fortmeyer</h1>
 
 		            	<div class="button-links">
-			            	<a class="btn-link" href="stories.html" id="stories-button"><li class="button-link btn btn-primary">stories</li></a>
-			            	<a class="btn-link" href="about.html" id="about-button"><li class="button-link btn btn-info">about</li></a>
+			            	<a class="btn-link" href="#" id="stories-button"><li class="button-link btn btn-stories">stories</li></a>
+			            	<a class="btn-link" href="#" id="about-button"><li class="button-link btn btn-about">about</li></a>
+			            	<a class="btn-link" href="#" id="butts-button"><li class="button-link btn btn-butts">butts</li></a>
 			            </div>
 		          	</div>
 
@@ -92,7 +105,7 @@
 		          	<div class="inner cover">
 
 			            <p class="lead about">
-			            	Kendra Fortmeyer is the fiction editor for <a href="http://broadzine.com/about/meet-the-staff/">Broad! magazine</a> and a Pushcart Prize nominee with an MFA from the New Writers Project at UT Austin. Her work has appeared or is forthcoming in the Toast, PANK, Smoking Glue Gun, NANO Fiction, apt, Juked, Forge, Fiddleblack, Corium and elsewhere. She wrote a YA magical realist novel about girls and their bodies that's found brilliant representation at <a href="http://www.thebentagency.com/">The Bent Agency</a> and is looking for, as we say, a forever home. 
+			            	Kendra Fortmeyer is the fiction editor for <a href="http://broadzine.com/about/meet-the-staff/">Broad! magazine</a> and a Pushcart Prize nominee with an MFA from the New Writers Project at UT Austin. Her work has appeared or is forthcoming in <a href ="http://kendrafortmeyer.com/#1">lots of sexy places</a>. She wrote a YA magical realist novel about girls and their bodies that's found brilliant representation at <a href="http://www.thebentagency.com/">The Bent Agency</a> and that is looking for, as we say, a forever home. 
 			            </p>
 
 			            <p class="lead about">
@@ -111,6 +124,17 @@
 		                    <p class="lead pull-left">* Obviously</p>
 		                </div>
 		            </div>
+
+		        </div>
+
+		     	<div id="butts-content" class="cover-container" hidden>
+
+		          	<div class="inner cover">
+
+			            <p class="butts">
+			            	...you would.
+			            </p>
+			        </div>
 
 		        </div>
 
