@@ -6,7 +6,7 @@ a.btn-link:focus {
 
 html,
 body {
-  height: 100%;
+/*  height: 100%; (this is the culprit that was breaking the container)*/
   background-color: #333;
 }
 
@@ -82,6 +82,16 @@ body {
 .site-wrapper-inner {
   display: table-cell;
   vertical-align: top;
+}
+
+#stories-content {
+  margin-top: 200px;
+  margin-bottom: 200px; 
+}
+
+#about-content {
+  margin-top: 200px;
+  margin-bottom: 200px; 
 }
 
 .cover-container {
