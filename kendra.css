@@ -73,25 +73,25 @@ a.btn-link:focus {
 
 .btn-butts {
   border-color: fuchsia !important;
-  color: red !important;
+  color: black !important;
   border: 5px;
 }
 
 .btn-stories {
   border-color: aqua !important;
-  color: red !important;
+  color: black !important;
   border: 5px;
 }
 
 .btn-about {
   border-color: yellow !important;
-  color: red !important;
+  color: black !important;
   border: 5px;
 }
 
 .btn-back {
   border-color: lime !important;
-  color: red !important;
+  color: black !important;
   border: 5px;
 }
 
