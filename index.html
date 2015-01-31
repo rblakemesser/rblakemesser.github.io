@@ -4,96 +4,31 @@
 
 	<head>
 		<title>Kendra Fortmeyer (writes stuff)></title>
+
+		<!-- CSS -->
 		<link href="kendra.css" rel="stylesheet">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 
-
+		<!-- Dependencies -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.7.0/underscore.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.2/backbone.js"></script>
 
-		<script>
+		<!-- Google Analytics -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+          
+            ga('create', 'UA-58899350-1', 'auto');
+            ga('send', 'pageview');
+        </script>
 
-			$(document).ready(function() {
+		<!-- Site javascript -->
+		<script src="kendra.js"></script>
 
-				var times = 0;
-				var $coverContainers = $('.cover-container');
-
-				var $aboutBtn = $('#about-button');
-				var $storiesBtn = $('#stories-button');
-				var $buttsBtn = $('#butts-button');
-				
-				var $homeContent = $('#home-content');
-				var $aboutContent = $('#about-content');
-				var $storiesContent = $('#stories-content');
-				var $buttsContent = $('#butts-content');
-
-				$aboutBtn.on('click', function(e) {
-					e.preventDefault();
-					times++;
-					location.hash = times;
-
-					$coverContainers.hide();
-					$aboutContent.show();
-					return false;
-				});
-
-				$storiesBtn.on('click', function(e) {
-					e.preventDefault();
-					times++;
-					location.hash = times;
-
-					$coverContainers.hide();
-					$storiesContent.show();
-					return false;
-				});
-
-				$buttsBtn.on('click', function(e) {
-					e.preventDefault();
-					times++;
-					location.hash = times;
-
-					$coverContainers.hide();
-					$buttsContent.show();
-					return false;
-				});
-
-				$backBtn.on('click', function(e) {
-					e.preventDefault();
-					times++;
-					location.hash = times;
-
-					$buttsContainers.hide();
-					$coverContent.show();
-					return false;
-				});
-
-				// Make the back and forwards buttons work
-				window.onhashchange = function() {
-				    if (location.hash.length > 0) {
-				        times = parseInt(location.hash.replace('#',''), 10);     
-				    }
-				    else {
-				        times = 0;
-				        $coverContainers.hide();
-						$homeContent.show();
-				    }
-				}
-
-			});
-
-
-		</script>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-58899350-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 	</head>
 
 	<body>
@@ -101,7 +36,7 @@
 
 		    <div class="site-wrapper-inner">
 
-				<div id="home-content" class="cover-container">
+				<div id="home-content" class="cover-container" hidden>
 
 		          	<div class="inner cover">
 		          		<img class="kendra-pic" src="https://pbs.twimg.com/profile_images/516239808142663680/IzIQycQy_400x400.jpeg" />
@@ -109,15 +44,15 @@
 		            	<h1 class="cover-heading">Kendra Fortmeyer</h1>
 
 		            	<div class="button-links">
-			            	<a class="btn-link" href="#" id="stories-button"><li class="button-link btn btn-stories">stories</li></a>
-			            	<a class="btn-link" href="#" id="about-button"><li class="button-link btn btn-about">about</li></a>
-			            	<a class="btn-link" href="#" id="butts-button"><li class="button-link btn btn-butts">butts</li></a>
+			            	<a class="btn-link" href="#/stories" id="stories-button"><li class="button-link btn btn-stories">stories</li></a>
+			            	<a class="btn-link" href="#/about" id="about-button"><li class="button-link btn btn-about">about</li></a>
+			            	<a class="btn-link" href="#/butts" id="butts-button"><li class="button-link btn btn-butts">butts</li></a>
 			            </div>
 		          	</div>
 
 		          	<div class="mastfoot" hidden>
 		             	<div class="inner">
-		                    <p><a href="#">people</a> I know doing <a href="/friends.html">really cool things</a></p>
+		                    <p><a href="#/people">people</a> I know doing <a href="/friends.html">really cool things</a></p>
 		                </div>
 		            </div>
 		        </div>
@@ -164,7 +99,7 @@
 			            </p>
 
 			            <div class="button-links">
-			            	<a class="btn-link" href="#" id="back-button"><li class="button-link btn btn-back">back</li></a>
+			            	<a class="btn-link" href="#/home" id="back-button"><li class="button-link btn btn-back">back</li></a>
 			            </div>
 			        </div>
 
@@ -200,7 +135,7 @@
 	          		</div>
 	          		<div class="work">
 	          			<h4 class="quote">
-	          				"I came in late, stood close-kneed and feeling naked in the leotard I’d paid too much for at the front desk."
+	          				"I came in late, stood close-kneed and feeling naked in the leotard I'd paid too much for at the front desk."
 	          			</h4>
 	          			<a href="http://www.juked.com/2014/06/kendra-fortmeyer-neophyte.asp">"Neophyte,"</a><span class="name-date"> Juked, June 2014</span>
 	          		</div>
@@ -237,8 +172,8 @@
 
 		        </div>
 
-
 		    </div>
 		</div>
 	</body>
 </html>
+
