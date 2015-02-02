@@ -73,11 +73,11 @@ a.btn-link:focus {
 }
 
 .btn-butts {
-  border-color: aqua !important;
+  border-color: #FF1493 !important;
 }
 
 .btn-stories, .btn-back {
-  border-color: fuchsia !important;
+  border-color: lime !important;
 }
 
 .btn-about {
@@ -85,7 +85,7 @@ a.btn-link:focus {
 }
 
 .btn-random {
-  border-color: lime !important;
+  border-color: purple !important;
 }
 
 .inner {
