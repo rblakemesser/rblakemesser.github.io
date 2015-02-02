@@ -51,7 +51,8 @@
 }
 
 .button-links {
-  margin-top: 35px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 a.btn-link,
@@ -84,7 +85,7 @@ a.btn-link:focus {
 }
 
 .btn-random {
-  border-color: red !important;
+  border-color: lime !important;
 }
 
 .inner {
