@@ -3,7 +3,7 @@
 <html lang="en">
 
 	<head>
-		<title>Kendra Fortmeyer (writes stuff)></title>
+		<title>Kendra Fortmeyer (writes stuff)</title>
 
 		<!-- CSS -->
 		<link href="kendra.css" rel="stylesheet">
@@ -26,6 +26,20 @@
 			})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
 			
 			ga('create', 'UA-58899350-1', 'auto');
+			/**
+			* Function that tracks a click on an outbound link in Google Analytics.
+			* This function takes a valid URL string as an argument, and uses that URL string
+			* as the event label.
+			*/
+			var trackOutboundLink = function(url) {
+				console.log(url);
+			    ga('send', 'event', 'outbound', 'click', url, {
+					'hitCallback': function () {
+			            document.location = url;
+			        }
+			    });
+			}
+
 		</script>
 
 	</head>
@@ -98,7 +112,7 @@
 			            </div>
 
 			            <div class="button-links">
-			            	<a class="btn-link" href="#/stories" id="stories-button"><li class="button-link btn btn-stories">read some stories</li></a>
+			            	<a class="btn-link" href="#/stories" id="stories-button"><li class="button-link btn btn-stories">go read a story</li></a>
 			            </div>
 			        </div>
 

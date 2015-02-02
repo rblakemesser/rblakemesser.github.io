@@ -1,16 +1,3 @@
-/**
-* Function that tracks a click on an outbound link in Google Analytics.
-* This function takes a valid URL string as an argument, and uses that URL string
-* as the event label.
-*/
-var trackOutboundLink = function(url) {
-    ga('send', 'event', 'outbound', 'click', url, {
-		'hitCallback': function () {
-            document.location = url;
-        }
-    });
-}
-
 // Main site code
 $(document).ready(function() {
 
@@ -40,11 +27,12 @@ $(document).ready(function() {
 	};
 
     app_router.on('route:defaultRoute', function(page) {
-		ga('send', 'pageview', page);
 		if (page in routeMap) {
 			swapContent(routeMap[page]);
+			ga('send', 'pageview', page);
 		} else {
 			swapContent(routeMap["home"]);
+			ga('send', 'pageview', "home");
 		}
     })
 
