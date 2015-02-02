@@ -21,6 +21,24 @@ $(document).ready(function() {
         }
     });
 
+	var allATags = $('#stories-content').find('.work a');
+	var allLinks = [];
+	_.each(allATags, function(aTag) {
+        allLinks.push(aTag.href);
+	});
+
+	function getRandom(iterable) {
+		return iterable[Math.floor(Math.random() * iterable.length)];
+	}
+
+    var randomButt = $('#random-butt');
+    randomButt.on('click', function(e) {
+        e.preventDefault();
+		var randomLink = getRandom(allLinks);
+		trackOutboundLink(randomLink);
+		return false;
+	});
+
     // Initiate the router
     var app_router = new AppRouter;
 	
