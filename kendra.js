@@ -34,7 +34,8 @@ $(document).ready(function() {
         "about": $('#about-content'),
         "stories": $('#stories-content'),
         "home": $('#home-content'),
-        "butts": $('#butts-content')
+        "butts": $('#butts-content'),
+        "interviews": $('#interviews-content')
     }
         	
     // Hides all elements, then shows the new page

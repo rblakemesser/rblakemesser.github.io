@@ -80,12 +80,20 @@ a.btn-link:focus {
   border-color: #FF1493 !important;
 }
 
+.btn-library {
+ border-color: red !important; 
+}
+
 .btn-stories, .btn-back {
   border-color: lime !important;
 }
 
 .btn-about {
   border-color: yellow !important;
+}
+
+.btn-interviews {
+  border-color: aqua !important;
 }
 
 .btn-random {
@@ -97,8 +105,15 @@ a.btn-link:focus {
 }
 
 .about {
-	max-width: 500px;
+	max-width: 700px;
 	text-align: left;
+}
+
+.interviews {
+  max-width: 700px;
+  margin-top: 45px;
+  display: block;
+  text-align: left;
 }
 
 .butts {
