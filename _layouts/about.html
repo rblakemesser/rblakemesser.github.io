@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="about-container">
+
+  <div class="page-content">
+    <img class="long-image" src="/assets/about.jpg" />
+    {% if page.subtitle %}
+      <h2 class="page-subtitle">{{ page.subtitle }}</h2>
+    {% endif %}
+    {% if page.quote %}
+      <h3 class="quote">"{{ page.quote }}"</h3>
+    {% endif %}
+    <div class="page-body">
+      {{ content }}
+    </div>
+  </div>
+
+</article>
