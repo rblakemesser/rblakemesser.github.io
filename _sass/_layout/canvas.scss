@@ -98,12 +98,12 @@ html {
 
       .user-row {
         display: flex;
-        justify-content: flex-end;
+        justify-content: center;
         flex-direction: row;
         align-items: baseline;
         align-content: flex-start;
 
-        .github-icon, .twitter-icon, h3 {
+        .twitter-icon, h3 {
           align-self: flex-start;
         }
       }
