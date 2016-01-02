@@ -98,10 +98,13 @@ html {
 
       .user-row {
         display: flex;
-        justify-content: center;
+        justify-content: flex-end;
         flex-direction: row;
         align-items: baseline;
         align-content: flex-start;
+        @media (max-width: $small-screen-width) {
+          justify-content: center;
+        }
 
         .twitter-icon, h3 {
           align-self: flex-start;
