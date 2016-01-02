@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Mr. Bear's Violet Hour Saloon"
+date:   2015-11-01 16:17:45 -0500
+categories: interviews
+image: "/assets/secret-lives.jpeg"
+link: "http://www.secretlives.podbean.com/e/tender-monsters-and-other-love-stories/"
+---
+
+The lovely and talented poet-human Georgia Bellas (with the help of her famous stuffed bear) reads aloud a handful of my stranger, sadder love stories: Things We Believed When We Were Small, The Monster Under Your Bed, Asymmetry, and Three and a Half Billion Chances.
+
+[You can listen to the recording here.]({{ page.link }})
