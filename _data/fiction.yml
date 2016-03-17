@@ -1,5 +1,12 @@
 fiction:
 
+    snippet: "Eventually, talking to strangers is a life skill. Eventually, everyone's a stranger."
+    pub: "The Literary Review"
+    dat: "February 2016"
+    title: "The One the Wolf Forgot"
+    link: "http://www.theliteraryreview.org/issue/flight/"
+    image: "car.jpg"
+
   - snippet: "Lying there with the girlfriend soft and vulnerable in his arms, the killer felt, suddenly, worthy of trust."
     pub: "Hobart"
     dat: "January 2016"
@@ -27,12 +34,6 @@ fiction:
     pub: "Black Warrior Review"
     dat: "Spring/Summer 2016"
     title: "X Approaching Infinity"
-    pending: true
-
-  - snippet: "The news vans started pulling around noon that Tuesday. Suddenly Mom was on somebody’s lawn and the five o'clock news, sobbing about how tragic the whole thing was, those poor little girls."
-    pub: "The Literary Review"
-    dat: "Fall 2015"
-    title: "The One the Wolf Forgot"
     pending: true
 
   - snippet: "When she first became a tree, she spent her days in grief. There was so much lost to her autonomy. Breasts. Winter mornings with lemon tea."
