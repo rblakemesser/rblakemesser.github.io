@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "One Story"
+title:  "Interview with One Story"
 date:   2015-08-01 16:17:45 -0500
 categories: interviews
 image: "/assets/discover.jpg"
