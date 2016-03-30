@@ -10,3 +10,5 @@ link: "http://www.smokelong.com/smoke-and-mirrors-an-interview-with-kendra-fortm
 A conversation with Smokelong Quarterly's Ariana Calvo about the quiet desperation of hipsterdom, iPhone culture, and the tenuous "you" of second-person short fiction.
 
 [You can read the interview here.]({{ page.link }})
+
+(Smokelong Quarterly cover art by conceptual photographer Katelin Kinney)
