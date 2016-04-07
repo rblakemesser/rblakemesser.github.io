@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SXSW Reading: I Scream Social at Malvern Books"
-date:   2016-03-21 16:17:45 -0500
+date:   2016-03-18 16:17:45 -0500
 categories: readings
 image: "/assets/malvernsign.jpg"
 link: "https://www.youtube.com/watch?v=i4YlN7sMkag"
