@@ -3,7 +3,7 @@ layout: post
 title:  "Focus on Fiction: Editorial Interview"
 date:   2016-04-06 01:17:45 -0500
 categories: interviews
-image: "/assets/christieinterview.jpg"
+image: "/assets/interviewbooks.jpg"
 link: "http://www.nancychristie.com/focusonfiction/2016/04/07/editor-interviews-with-heather-lefebvre-and-kendra-fortmeyer/"
 ---
 
