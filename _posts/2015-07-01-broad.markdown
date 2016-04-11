@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Broad!"
+title:  "Chatting with Broad!"
 date:   2015-07-01 16:17:45 -0500
 categories: interviews
 image: "/assets/heather.jpg"

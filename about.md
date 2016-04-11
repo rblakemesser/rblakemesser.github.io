@@ -3,7 +3,7 @@ layout: about
 title: about
 subtitle: About Kendra Fortmeyer
 permalink: /about/
-image: "about.jpg"
+image: "about2.jpg"
 ---
 
 Kendra Fortmeyer has an MFA from the New Writer's Project at UT Austin and edits fiction for [Broad! Magazine](http://broadzine.com/about/meet-the-staff/). Her writing has been nominated for the Pushcart Prize and Best American Nonrequired Reading and has appeared or is forthcoming in [too many gorgeous places](http://kendrafortmeyer.com/#1).

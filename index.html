@@ -5,6 +5,7 @@ layout: default
 <div class="blog">
 
   {% for post in site.posts %}
+  {% if post.libpost == null %}
     <div class="blog-item">
       {% if post.image %}
         <a href="{{ post.link }}"><img class="long-image" src="{{ post.image }}" /></a>
@@ -19,6 +20,7 @@ layout: default
         {{ post.excerpt }}
       </div>
     </div>
+  {% endif %}
   {% endfor %}
 
 </div>

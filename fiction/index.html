@@ -1,14 +1,13 @@
 ---
 layout: page
-title: fiction
+title: writing
 permalink: /fiction/
 ---
 
 <div class="fiction">
   <div class="fiction-container">
-
     {% for fiction in site.data.fiction.fiction %}
-      {% if fiction.pending != true %}
+      {% if fiction.feat == true and fiction.pending != true %}
         <div class="story-container">
 
           <a href="{{ fiction.link }}">
@@ -26,7 +25,35 @@ permalink: /fiction/
           </a>
           
           <a href="{{ fiction.link }}">
-			  <h5>{{ fiction.pub }}, {{ fiction.dat }}</h5>
+    			  <h5>{{ fiction.pub }}, {{ fiction.dat }}</h5>
+            <h6>{{ fiction.wcount }} words</h6>
+          </a>
+
+        </div>
+      {% endif %}
+    {% endfor %}
+
+    {% for fiction in site.data.fiction.fiction %}
+      {% if fiction.feat != true and fiction.pending != true %}
+        <div class="story-container">
+
+          <a href="{{ fiction.link }}">
+            <div class="story-image">
+              <img src="/assets/{{ fiction.image }}"/>
+            </div>
+          </a>
+
+          <a href="{{ fiction.link }}">
+            <h2 class="story-title">{{ fiction.title }}</h2>
+          </a>
+
+          <a href="{{ fiction.link }}">
+            <h4 class="snippet">"{{ fiction.snippet }}"<h4>
+          </a>
+          
+          <a href="{{ fiction.link }}">
+            <h5>{{ fiction.pub }}, {{ fiction.dat }}</h5>
+            <h6>{{ fiction.wcount }} words</h6>
           </a>
 
         </div>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Butter"
+title:  "Interview with The Butter"
 date:   2015-08-01 16:17:45 -0500
 categories: interviews
 image: "/assets/butter.jpeg"

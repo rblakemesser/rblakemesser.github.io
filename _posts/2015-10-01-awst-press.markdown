@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Awst Press"
+title:  "Interview with Awst Press"
 date:   2015-10-01 16:17:45 -0500
 categories: interviews
 image: "/assets/bookcase.jpeg"
