@@ -3,7 +3,7 @@ layout: post
 title:  "The Skybrary: A School Library Program on a Shoestring Budget"
 date:   2016-04-09 01:17:45 -0500
 categories: interviews
-image: "/assets/interviewbooks.jpg"
+image: "/assets/shelfcrop2.jpg"
 link: "http://www.theamazingskybrary.wordpress.com"
 libpost: true
 ---
