@@ -3,7 +3,7 @@ layout: post
 title:  "Real Girls, Real Bodies: a Library Program for Teen and Preteen Girls"
 date:   2015-04-26 01:17:45 -0500
 categories: interviews
-image: "/assets/realgirls.jpg"
+image: "/assets/realgirls.png"
 link: 
 libpost: true
 ---
