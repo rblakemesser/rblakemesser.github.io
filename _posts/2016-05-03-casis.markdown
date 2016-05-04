@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "School Library Practicum: a Semester as a Student Librarian at Casis Elementary"
+date:   2015-08-30 01:17:45 -0500
+categories: interviews
+image: "/assets/casiscrop2.jpg"
+link: "http://casiselementary.com/specials/library-casis/"
+libpost: true
+---
+
+My capstone project at the School of Information was a 160-hour, semester-long practicum in an elementary school library. All of my past work had been with teenagers--I had never done a storytime, didn't know the names of any picture book illustrators, and felt (frankly) embarrassed singing in public. I was unbelievably lucky to land under the wise wing of Barbara Nichols at Casis Elementary, who took me by the hand and immersed me in the wonderful world of children's librarianship. 
+
+Over the next four months, I ran storytimes about bandicoots and dragons, taught first graders about fiction and nonfiction, and learned to sing the library welcome song with aplomb. I planned and taught a full month's worth of developmentally appropriate lessons, built displays for National Poetry Month, and helped with an author visit; I learned our picture book and middlegrade collection and the fine art of readers' advisory, helping to get kids from "I don't know what I want to read" to placing that just-right book in their hands with a smile. I've learned how to amp kids up about poetry and how to amp kindergartners down again, and how to work with faculty and staff to build amazing programs that support learning and love of reading.
+
+I’ve grown so much in this practicum, and come to genuinely love my hosts and my school. I'm sad that this place isn’t a part of my daily life anymore, but can't wait to find new opportunities to incorporate children, libraries and learning into my career.
+
+Want to know more about Casis and its incredible librarian? [Click here.]({{ page.link }})
