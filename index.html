@@ -8,7 +8,7 @@ layout: default
   {% if post.libpost == null %}
     <div class="blog-item">
       {% if post.image %}
-        <a href="{{ post.link }}"><img class="long-image" src="{{ post.image }}" /></a>
+	  <a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}"><img class="long-image" src="{{ post.image }}" /></a>
       {% endif %}
 
       <h2 class=post-title>
