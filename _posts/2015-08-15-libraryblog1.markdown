@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Skybrary: A School Library Program on a Shoestring Budget"
+title:  "The Skybrary: A School Library on a Shoestring Budget"
 date:   2015-08-15 01:17:45 -0500
 categories: interviews
 image: "/assets/shelfcrop2.jpg"
