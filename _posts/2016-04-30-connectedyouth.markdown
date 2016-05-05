@@ -3,7 +3,7 @@ layout: post
 title:  "Austin Public Library: Connected Youth"
 date:   2016-04-30 01:17:45 -0500
 categories: interviews
-image: "/assets/librarycard.jpg"
+image: "/assets/libcard.jpg"
 link: "https://library.austintexas.gov/youth/teens/connected-youth"
 libpost: true
 ---
