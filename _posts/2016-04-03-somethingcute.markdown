@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Something Cute: a Database of Cute Animal Videos"
-date:   2016-05-03 01:17:45 -0500
+date:   2016-04-03 01:17:45 -0500
 categories: interviews
 image: "/assets/somethingcute.png"
 link: "http://corvette.ischool.utexas.edu/mysquee/somethingcute_page.html"

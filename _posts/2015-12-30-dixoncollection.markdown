@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Volunteer Archivism: the Freddie Dixon Collection at the Austin History Center"
-date:   2015-08-30 01:17:45 -0500
+date:   2015-12-30 01:17:45 -0500
 categories: interviews
 image: "/assets/dixoncrop.jpg"
 link: "http://www.lib.utexas.edu/taro/aushc/00512/ahc-00512.html"
