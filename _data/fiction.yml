@@ -55,6 +55,8 @@ fiction:
     link: "http://www.one-story.com/index.php?page=stories&story_id=209"
     goodlink: "https://www.goodreads.com/book/show/27228892-things-i-know-to-be-true"
     image: "books.jpg"
+    nom:
+      - "winner of 2017 Pushcart Prize "
 
   - snippet: "When she first became a tree, she spent her days in grief. There was so much lost to her autonomy. Breasts. Winter mornings with lemon tea."
     pub: "Psychopomp"
