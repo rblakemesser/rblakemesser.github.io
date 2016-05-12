@@ -8,4 +8,4 @@ link: "http://www.one-story.com/index.php?page=stories&story_id=209"
 ---
 Published by One Story in the summer of 2015, this story explores the life and mind of a Vietnam veteran whose PTSD and complex relationship with language mire him in a world of uncertain fictions.
 
- You can read an excerpt of 'Things I Know To Be True,' or purchase a copy of the story, [here.]({{ page.link }})
+ You can read an excerpt of 'Things I Know To Be True,' or purchase a copy of the story, [here]({{ page.link }}), or share your thoughts about the piece <a href="https://www.goodreads.com/book/show/27228892-things-i-know-to-be-true">on Goodreads</a>.

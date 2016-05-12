@@ -9,4 +9,4 @@ link: "http://www.awst-press.com/shop/kendra-fortmeyer/print"
 
 I have a wee magical realist chapbook and it is now in the world. "The Girl Who Could Only Say 'sex, drugs, and rock & roll'" is a queer, magical love story about the hazy dreamworld of adolescence and the ways language reveals--and constrains--us. Palm-sized and beautifully handbound by independent Austin-based publisher Awst Press.
 
-[Buy the chapbook in print or as an ebook here.]({{ page.link }})
+[Buy the chapbook in print or as an ebook here,]({{ page.link }}) or check it out <a href="https://www.goodreads.com/book/show/27228799-the-girl-who-could-only-say-sex-drugs-and-rock-roll">on Goodreads</a>
