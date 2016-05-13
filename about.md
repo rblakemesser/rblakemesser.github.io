@@ -4,11 +4,7 @@ title: about
 subtitle: About Kendra Fortmeyer
 permalink: /about/
 image: "about2.jpg"
+link: www.kendrafortmeyer.com/fiction/
 ---
 
-Kendra Fortmeyer has an MFA from the New Writer's Project at UT Austin and edits fiction for [Broad! Magazine](http://broadzine.com/about/meet-the-staff/). Her writing has been nominated for the Pushcart Prize and Best American Nonrequired Reading and has appeared or is forthcoming in [too many gorgeous places](http://kendrafortmeyer.com/#1).
-She wrote a YA magical realist novel about girls and their bodies that's found brilliant representation at [The Bent Agency](http://www.thebentagency.com/), and is currently at work on a new novel.
-
-In addition to writing, Kendra juggles full-time studies in UT's graduate school for information and library sciences, energetically interns in the Austin Public Library's Connected Youth program, and is a blissfully happy student librarian in Austin's Independent School District. She is the former English teacher at Skybridge Academy, an Austin private school where she also [founded a library](https://theamazingskybrary.wordpress.com/).
-
-(She thought a long time about whether this page should be in the first or third person. To the dismay of multitudes, she chose this.)
+In the words of <a href="https://www.reverbnation.com/kurtfortmeyer">her father<a/>, Kendra Fortmeyer was “born in a barn and raised in a stable environment.” She grew up in the lush woods of central North Carolina, surrounded by stacks of books from her local small-town library. Now a Pushcart Prize-winning fiction writer and dedicated youth librarian, her work has been recognized by grants from the Elizabeth George Foundation, the Dafna Zamarripa-Gensundheit Prize, and the Michener Center for Writers, and has appeared in One Story, The Toast, Black Warrior Review and [elsewhere]({{ page.link }}). She received her MFA in fiction from the New Writers Project at UT Austin, and her MLIS from the School of Information, and will attend the Clarion Science Fiction and Fantasy Writers workshop in the summer of 2016.
