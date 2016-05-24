@@ -108,7 +108,8 @@ var renderTemplate = function($journal, journalIdx, $title, titleIdx, $name, bio
 	//var header = '<h2>Here is your cover letter:</h2><br/>';
 	var newContent ='<p>' + renderedDear + '</p>' + '<p>' + renderedTitle + '<p>' + renderedBio + '</p>'
 	+ '<p>' + randConTpl + '</p>' + '<p>' + randSalTpl + '</p>' + '<p>' + $name.val() + '</p>' 
-	+ '<p><h4>Not quite what you were looking for? Enter new information, or just click the button again for a new letter.</h4><br/><br/></p>'
+	+ '<p><h4>Not quite what you were looking for? Enter new information, or just click the button again for a new letter.</h4></p>'
+	+ '<p><h5>Proud of your letter? Copy and paste your url to share your results!</h5></p><br/>'
 	;
 	$renderedtemplate.html(newContent);
 

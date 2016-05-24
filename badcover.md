@@ -3,6 +3,7 @@ layout: about
 title: Bad Cover Letter Generator
 subtitle: Tools For Your Writerly Needs
 permalink: /badcover
+description: A tool for your writerly needs
 ---
 
 <script
