@@ -109,7 +109,7 @@ var renderTemplate = function($journal, journalIdx, $title, titleIdx, $name, bio
 	var newContent ='<p>' + renderedDear + '</p>' + '<p>' + renderedTitle + '<p>' + renderedBio + '</p>'
 	+ '<p>' + randConTpl + '</p>' + '<p>' + randSalTpl + '</p>' + '<p>' + $name.val() + '</p>' 
 	+ '<p><h4>Not quite what you were looking for? Enter new information, or just click the button again for a new letter.</h4><br/><br/></p>'
-	+ '<p style=\"text-align:center;\"><img src=\"/assets/typewriter3.jpg\"/></p><br/><br/>';
+	;
 	$renderedtemplate.html(newContent);
 
 }

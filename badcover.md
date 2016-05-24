@@ -1,6 +1,7 @@
 ---
 layout: about
 title: Bad Cover Letter Generator
+subtitle: Tools For Your Writerly Needs
 permalink: /badcover
 ---
 
@@ -10,13 +11,15 @@ permalink: /badcover
 
 <div id="renderedtemplate"> </div>
 
+<p style="text-align:center;"><img src="/assets/typewriter3.jpg"/></p><br/><br/>
+
 <h2>Cover Letter Generator</h2><br/>
 <p>Uncertain how to write a cover letter that will get your piece accepted at that shiny literary journal? Fear no more! Fill out the form below to generate your very own professional, literary cover letter:</p>
 
 <form name="clgen" action="" method="GET">
 
 <p> Journal:
-   <input id="journal" type="text" class="form-control" name="journal" size="30" placeholder="e.g., Broad! Magazine"/>
+   <input id="journal" type="text" class="form-control" name="journal" size="30" placeholder="e.g., Broad! a gentleperson's magazine"/>
    <input hidden id="journal-idx" name="journal-idx" type="integer" />
 </p>
 
