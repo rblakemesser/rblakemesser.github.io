@@ -18,7 +18,7 @@
           </h3>
         </li >
         {% for my_page in site.pages | sort %}
-          {% if my_page.title %}
+          {% if my_page.title and my_page.nav %}
       		  <li class="nav-element">
 							<h3>
 	      			  <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">

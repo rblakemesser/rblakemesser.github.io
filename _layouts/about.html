@@ -4,7 +4,9 @@ layout: default
 <article class="about-container">
 
   <div class="page-content">
-    <img class="long-image" src="/assets/about2.jpg" />
+    {% if page.image %}
+    <img class="long-image" src="/assets/{{ page.image }}" />
+    {% endif %}
     {% if page.subtitle %}
       <h2 class="page-subtitle">{{ page.subtitle }}</h2>
     {% endif %}
