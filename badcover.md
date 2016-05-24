@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Bad Cover Letter Generator
+title: Bad Cover Letter Generator: a tool for your writerly needs
 subtitle: Tools For Your Writerly Needs
 permalink: /badcover
 description: A tool for your writerly needs
