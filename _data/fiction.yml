@@ -1,5 +1,14 @@
 fiction:
 
+  - snippet: "In the dream, you are given the chance to undo your cousin's suicide."
+    pub: "Paper Darts"
+    dat: "January 2017"
+    format: "web"
+    wcount: "400"
+    title: "The Third Stage"
+    link: "http://www.paperdarts.org/literary-magazine/2016/12/30/the-third-stage"
+    image: "paper-darts-circle.jpg"
+
   - snippet: "One hundred and six parallel universes away, she had not agreed to come on the date at all.  Five hundred and seventeen, he had not asked her.  They had not met."
     pub: "Black Warrior Review"
     dat: "April 2016"
@@ -57,6 +66,7 @@ fiction:
     image: "books.jpg"
     nom:
       - "winner of 2017 Pushcart Prize "
+      - "reprinted in Best American Nonrequired Reading 2016"
 
   - snippet: "When she first became a tree, she spent her days in grief. There was so much lost to her autonomy. Breasts. Winter mornings with lemon tea."
     pub: "Psychopomp"
