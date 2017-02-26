@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Leaping across the genre divide: work forthcoming in Lightspeed, Apex, PodCastle"
-date:   2017-02-10 01:17:45 -0500
+date:   2017-02-17 01:17:45 -0500
 categories: interviews
 image: "/assets/space.jpg"
 link: "https://twitter.com/kendraffe/status/753611267386945537"
