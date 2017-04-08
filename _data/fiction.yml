@@ -1,5 +1,14 @@
 fiction:
 
+  - snippet: "There is one selkie wife who doesn’t wait for the fisherman. She climbs from the water with her coat dripping in her arms, marches into his house and stuffs the skin into an old oak trunk."
+    pub: "Apex"
+    dat: "April 2017"
+    format: "web"
+    wcount: "3,100"
+    title: "The Selkie Wives"
+    link: "http://www.apex-magazine.com/the-selkie-wives"
+    image: "apexstory.jpg"
+
   - snippet: "In the dream, you are given the chance to undo your cousin's suicide."
     pub: "Paper Darts"
     dat: "January 2017"
@@ -9,7 +18,7 @@ fiction:
     link: "http://www.paperdarts.org/literary-magazine/2016/12/30/the-third-stage"
     image: "paper-darts-circle.jpg"
 
-  - snippet: "One hundred and six parallel universes away, she had not agreed to come on the date at all.  Five hundred and seventeen, he had not asked her.  They had not met."
+  - snippet: "One hundred and six parallel universes away, she had not agreed to come on the date at all. Five hundred and seventeen, he had not asked her. They had not met."
     pub: "Black Warrior Review"
     dat: "April 2016"
     format: "print"
