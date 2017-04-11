@@ -1,0 +1,11 @@
+---
+layout: post
+title:  ""The Selkie Wives" in Apex" 
+date:   2017-04-04 01:17:45 -0500
+categories: interviews
+image: "/assets/apexannounce.jpg"
+link: "http://www.apex-magazine.com/issue-95-april-2017/"
+---
+Dear friends! My first hard SFF story, "The Selkie Wives" was published in [Apex Magazine]({{page.link}}) this week. It is about mystical seal-women and how the patriarchy is terrible. Cue realization that 90% of my stories follow the formula "about _________ and how the patriarchy is terrible"; cue realization that I am living the dream. [Happy reading!]({{page.link}})
+
+
