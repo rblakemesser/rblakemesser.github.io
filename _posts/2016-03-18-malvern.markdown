@@ -11,3 +11,4 @@ I had the opportunity to read in the I Scream Social series at the wonderful, in
 <iframe width="681" height="383" src="https://www.youtube.com/embed/i4YlN7sMkag" frameborder="0" allowfullscreen></iframe>
 
 [story]: http://www.smokelong.com/leonardo-or-lenin-or-princess-diana/
+[video]: https://www.youtube.com/embed/i4YlN7sMkag
