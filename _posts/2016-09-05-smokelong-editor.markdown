@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""Emotional truth with the volume turned up" -- guest editor interview at Smokelong Quarterly" 
+title: "Emotional truth with the volume turned up -- guest editor interview at Smokelong Quarterly" 
 date:   2016-09-05 01:17:45 -0500
 categories: interviews
 image: "/assets/smokelongcollage.jpg"
