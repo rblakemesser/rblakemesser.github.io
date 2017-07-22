@@ -6,4 +6,4 @@ categories: interviews
 image: "/assets/pec_photo.jpg"
 link: "https://www.pec.coop/Home/energy-news/news-item/2017/07/17/pec-employee-authors-young-adult-novel"
 ---
-In addition to surprising me with a hole-foods-themed book launch party (doughnuts! fudge rings! gummy "book" worms!), my heart-explodingly wonderful coworkers put together [this story]({{page.link}}) about my childhood determination to be an author, the truly weird origin story of HOLE IN THE MIDDLE and the process of writing a novel. Biggest and brightest thanks to writer Taryn Franklin and photographer/designer Ruth Silva, who are better than this world deserves.
+In addition to surprising me with a hole-foods-themed book launch party (doughnuts! fudge rings! gummy "book" worms!), my heart-explodingly wonderful coworkers put together [this story]({{page.link}}) about my childhood determination to be an author, the truly weird origin story of HOLE IN THE MIDDLE and the process of writing a novel. Biggest and brightest thanks to writer Taryn Franklin and photographer/designer Ruth Silva, who are better than this world deserves. [Read the story here.]({{page.link}})
