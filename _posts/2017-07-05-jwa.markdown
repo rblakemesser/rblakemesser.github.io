@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Smashing the patriarchy with YA literature: an interview with the Jewish Women's Archive"
+date:   2017-07-05 01:17:45 -0500
+categories: interviews
+image: "/assets/jwa.jpg"
+link: "https://jwa.org/blog/smashing-patriarchy-with-ya-literature"
+---
+The JWA's Emily Cataneo and I dug into the potential of YA literature to smash the patriarchy! Also discussed: the power of minority representation, tips for young feminists, and the ways we teach girls their bodies are flawed and all the ways that's damaging. [Read the interview here]({{page.link}}), and check out Emily's beautiful, dark and dreamy stories [here][emily].
+
+[emily]: http://www.emilycataneo.com/books/
