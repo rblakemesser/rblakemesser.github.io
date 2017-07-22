@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "What to read when you are a girl in this garbage fire world"
+date:   2017-07-07 01:17:45 -0500
+categories: interviews
+image: "/assets/rumpus.jpg"
+link: "http://therumpus.net/2017/07/what-to-read-when-you-are-a-girl-in-this-garbage-fire-world/"
+---
+On the eve of my [book release][amazon], Lyz Lenz at The Rumpus was kind enough to let firecracker teen librarian [Gretchen Alice][gretchen] and me put together a reading list of books for/by young women who are using their voices to fight back in a pussy-grabbing world. Girls, your voice matters -- now speak (and read!) out. [Check out the list here.]({{page.link}})
+
+[amazon]: https://www.amazon.co.uk/Hole-Middle-Kendra-Fortmeyer/dp/0349002754
+[gretchen]: https://twitter.com/gretchenalice
