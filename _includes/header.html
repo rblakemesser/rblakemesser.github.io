@@ -10,13 +10,6 @@
 
     <div class="header-nav">
       <ul class="nav-list">
-        <li class="nav-element">
-          <h3>
-            <a class="page-link" href="{{ '/' | prepend: site.baseurl }}">
-              news
-            </a>
-          </h3>
-        </li >
         {% for my_page in site.pages | sort %}
           {% if my_page.title and my_page.nav %}
       		  <li class="nav-element">
@@ -28,6 +21,13 @@
       		  </li >
           {% endif %}
         {% endfor %}
+        <li class="nav-element">
+          <h3>
+            <a target=_blank class="page-link" href="http://www.simpleregistry.com/blendra/">
+              registry
+            </a>
+          </h3>
+        </li >
       </ul>
     </div>
 
