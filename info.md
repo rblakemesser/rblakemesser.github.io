@@ -27,6 +27,7 @@ If you're coming in from out of town and don't want to rent a car, you're in luc
 Are you coming in early or staying a bit later? EXCELLENT CHOICE! We live in a phenomenally fun city. Here are some suggestions (via Kendra) of things you might like to do, eat and see to enjoy the heck out of your stay in Austin:
 
 ##### **Food**
+(Most important things first.)
 
 ##### Tacos 
 The perpetual tourist favorite is **Torchy's**. It's a bit of an Austin legend-began as a food truck but now has locations all over town. I personally feel a little underwhelmed by their taco selection now, but their queso is unmissable. Treat yo'self.
@@ -45,19 +46,19 @@ For pizza, go to **Homeslice** on South Congress and get the fried eggplant pie.
 #### Baked goods
 **Quacks**, in Hyde Park, is the bakery of my heart, and I wrote most of my first book there. They're also doing our wedding cake, so if you have a slice and get hooked, go check them out. Try a piece of key lime pie, and maybe also wander next door to **Julio's** for a big Tex Mex breakfast plate (heads up, they're cash only.)
 
-##### Dranks:
+##### **Dranks**
 **Midnight Cowboy** is a really, really lovely speakeasy tucked away on 6th Street. It's not inexpensive (cocktails are $12 across the board), but the atmosphere is phenomental and the drinks are superb -- all old-fashioned affairs made with absinthe and aperol and chartreuse and lavender-infused whatsits. This is an even better experience if you don't tell your partner or friends where you're taking them. To get here, go to 6th Street across from the Alamo Ritz (you can Google Maps it, but it's easy to miss even then). You'll spot a battered-looking door with a rusty metal grating and a row of apartment buzzers beside it (a red lightbulb may be illuminated just over the door). Ring the buzzer for "Harry Craddock" for entry. You do need to make reservations to go; make them here: (http://midnightcowboymodeling.com/)
 
 (If you can't get reservations and still want a speakeasy experience, **Firehouse** is lots of fun; you enter through a sliding bookcase: (http://www.firehousehostel.com/) )
 
-##### Goin' out
+##### **Goin' out**
 If you are younger/hipper/cooler than I am and like to party hardy, **6th Street** and **Rainey Street** are the places to go get your drink on. People who are not me have lots and lots of fun here. You are not me. Perhaps this is for you! (A bit of geography: "Dirty 6th" is the stretch of 6th Street between Congress and I-35, generally plastered with vomit and stray pizza slices by 2 a.m.) For a chiller vibe, I highly recommend crossing the highway to east 6th. Look for **Rio Rita's** (very groovy lounge/drink space), go two-stepping at **The White Horse,** or, further afield, get drinks at **Lustre Pearl** (an old New Orleans house relocated to Austin and turned bar).
 
 There's also the **Red River District**, home to gay/everyone bar **Cheer Up Charlie's** and big music venues **The Mohawk** and **Stubb's**, walking distance from all of these locations. For very, very good dancing, you'll want to hit up Barbarella's, whose Tuesgayz dance nights on Tuesdays are legendary.
 
 For more gay bars, check out **4th Street,** home to **Rain** and **The Highland Lounge.**
 
-##### Wandering and sightseeing
+##### **Wandering and sightseeing**
 If you've got an hour to kill and want to "experience" Austin, accept that the Lonely Planet guide is right and wander around the carnival-esque shops, restaurants and music scene on **South Congress**. Take a photo with the iconic "i love you so much" street art, get ice cream at **Amy's**, marvel at the oddities of **Uncommon Objects** and the amazing, immersive costume shop **Lucy in Disguise**.
 
 If you're downtown, visit our brand new **Central Library** -- it's stunning! (Of COURSE I'm going to tell you to go to a library.) Afterward, wander past super hip toy store **Toy Joy** and then go get hot cocoa cocktails and make-your-own-s'mores-at-the-table at **Halcyon**.
