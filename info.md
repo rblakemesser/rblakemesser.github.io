@@ -26,14 +26,14 @@ If you're coming in from out of town and don't want to rent a car, you're in luc
 ##### What amazing things to do in Austin
 Are you coming in early or staying a bit later? EXCELLENT CHOICE! We live in a phenomenally fun city. Here are some suggestions (via Kendra) of things you might like to do, eat and see to enjoy the heck out of your stay in Austin:
 
-#### **Food**
+##### **Food**
 
-#### Tacos 
+##### Tacos 
 The perpetual tourist favorite is **Torchy's**. It's a bit of an Austin legend-began as a food truck but now has locations all over town. I personally feel a little underwhelmed by their taco selection now, but their queso is unmissable. Treat yo'self.
 
 The actual best tacos in the city: go to the **Veracruz al Natural** truck at **Radio Coffee** on South Lamar. If you'll permit me to hand-hold you a bit here: order the migas or migas poblanas tacos on corn tortillas. Dress them with the molcajete (brown) salsa. You will have no regrets. Unless you do not go get these tacos. Then you will have regrets forever. Trust me. (Radio's a great coffee/beer place, so cruise in there and grab drinks while you wait -- you pay for Veracruz's excellence with slowness, especially on weekends.)
 
-#### Not tacos (aka, other food)
+##### Not tacos (aka, other food)
 Do you love ramen? Go to **Ramen Tatsuya** on South Lamar. Be prepared to stand in a line, but it moves quickly. Everything here is amazing; I recommend getting the sweet & sour yodas appetizer while you wait and adding an ajitama (marinated soft-boiled egg) to any ramen bowl. 
 
 For the experience, check out **Gordough's Public House**, also on South Lamar. It started as a doughnut truck and is now a doughnut restaurant. The burgers come between two doughnuts. The salads come with a garlic doughnut. It's extravagant and extreme and worth doing once in your life. (http://gourdoughs.com/)
