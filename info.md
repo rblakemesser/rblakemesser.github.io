@@ -9,8 +9,8 @@ image: "kb10.jpg"
 
 Please join us in our backyard at 4 p.m. on Saturday, April 7, 2018. We'll get married! You'll be there! It will be a really good time.
 
-**What to wear**
-However makes you happiest. For real. Please put on the outfit that makes you feel like your best and most attractive self. If this is a tux, fantastic; if it's a favorite pair of bluejeans, equally fantastic! (Just, like, don't wear a wedding dress or whatever; that would be rude.)
+## What to wear
+Whatever makes you happiest. For real. Please put on the outfit that makes you feel like your best and most attractive self. If this is a tux, fantastic; if it's a favorite pair of bluejeans, equally fantastic! (Just, like, don't wear a wedding dress or whatever; that would be rude.)
 
 ## Where to park
 Our neighborhood has a bounty of street parking! It is free and luscious. Please be courteous of our neighbors; they are nice and we like them.
@@ -27,6 +27,7 @@ If you're coming in from out of town and don't want to rent a car, you're in luc
 Are you coming in early or staying a bit later? EXCELLENT CHOICE! We live in a phenomenally fun city. Here are some suggestions (via Kendra) of things you might like to do, eat and see to enjoy the heck out of your stay in Austin:
 
 ### Food
+
 #### Tacos 
 The perpetual tourist favorite is **Torchy's**. It's a bit of an Austin legend-began as a food truck but now has locations all over town. I personally feel a little underwhelmed by their taco selection now, but their queso is unmissable. Treat yo'self.
 
