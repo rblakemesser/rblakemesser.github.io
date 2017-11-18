@@ -4,7 +4,7 @@ title: registry
 subtitle: Show us the world -- shining, shimmering, splendid
 nav: true
 permalink: /
-image: "japan.jpg"
+image: "japan.jpeg"
 ---
 
 Once upon a time, in the early, hazy days of our relationship, Blake traveled across the country to see Kendra and we watched a documentary together called 'Jiro Dreams of Sushi.' Since then, we have been dreaming of going to Japan -- and now, for our honeymoon, we're making the dream come true.
