@@ -9,7 +9,7 @@ image: "kb10.jpg"
 
 Please join us in our backyard at 4 p.m. on Saturday, April 7, 2018. We'll get married! You'll be there! It will be a really good time.
 
-## What to wear
+**What to wear**
 However makes you happiest. For real. Please put on the outfit that makes you feel like your best and most attractive self. If this is a tux, fantastic; if it's a favorite pair of bluejeans, equally fantastic! (Just, like, don't wear a wedding dress or whatever; that would be rude.)
 
 ## Where to park
