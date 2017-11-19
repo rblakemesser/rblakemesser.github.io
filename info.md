@@ -16,7 +16,7 @@ Whatever makes you happiest. For real. Please put on the outfit that makes you f
 Our neighborhood has a bounty of street parking! It is free and luscious. Please be courteous of our neighbors; they are nice and we like them.
 
 ##### Where to stay
-We strongly recommend you eschew the hotels and get an AirBnBb in a fun Austin neighborhood! You can hit a similar price point for a much more buy-local, Keep It Weird experience. If you'd like to be near us and our venue, look in the Bouldin Creek, Travis Heights and Dawson neighborhoods.
+We strongly recommend you eschew the hotels and get an AirBnB in a fun Austin neighborhood! You can hit a similar price point for a much more buy-local, Keep It Weird experience. If you'd like to be near us and our venue, look in the Bouldin Creek, Travis Heights and Dawson neighborhoods -- when in doubt, search south of the river.
 
 ##### How to get around town
 If you're coming in from out of town and don't want to rent a car, you're in luck: after a brief hiatus, rideshare programs like Lyft are back in Austin! If you don't have the app on your phone already, download it before you arrive, or buddy up to someone else who has. 
@@ -27,7 +27,7 @@ If you're coming in from out of town and don't want to rent a car, you're in luc
 Are you coming in early or staying a bit later? EXCELLENT CHOICE! We live in a phenomenally fun city. Here are some suggestions (via Kendra) of things you might like to do, eat and see to enjoy the heck out of your stay in Austin:
 
 ##### **Food**
-(Most important things first.)
+(...most important things first.)
 
 ##### Tacos 
 The perpetual tourist favorite is **Torchy's**. It's a bit of an Austin legend-began as a food truck but now has locations all over town. I personally feel a little underwhelmed by their taco selection now, but their queso is unmissable. Treat yo'self.
