@@ -1,10 +1,10 @@
 ---
 layout: about
 title: home
-subtitle: We're getting married
+subtitle: Hello there
 nav: true
 permalink: /
-image: "kb3.jpg"
+image: "kb2.jpg"
 ---
 
-We're getting married! Thanks for sharing the journey with us.
+This is my personal web-site.
